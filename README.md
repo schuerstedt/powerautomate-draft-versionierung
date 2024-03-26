@@ -31,3 +31,4 @@ Mit "Veröffentlichen" wird der Flow dann scharf geschaltet. Dann findet auch ei
 ## Happy Happy :)
 
 ![image](https://github.com/schuerstedt/powerautomate-draft-versionierung/assets/2076412/14fcef04-9eba-4364-ac0c-0742ffb5b6b8)
+Bild erstellt mit ideogram - https://ideogram.ai/g/GnyHeMLDQoydLTmaP5t51Q/3
