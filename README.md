@@ -8,7 +8,7 @@ Da habe ich schon lange drauf gewartet - Flow speichern zu können, auch wenn ei
 
 Powerautomate Flows in einer Lösung (oder in Powerautomate heisst es Projektmappe anlegen). Voraussetzung Dataverse in der Umgebung. Würde auch ohne Premium geben, aber meine Empfehlung: jeder Maker sollte eine Premium Lizenz haben. Dann kann man Umgebungen verwenden und sich später auch mit dem Thema ALM - Application Lifcycle Management, beschäftigen!
 
-Danach den Flo initial speichern und schliessen. Dann in einem neuen Tab öffnen (oder ausserhalb der Projektmappe unter Flows), damit der neue Designer verwendet wird. Kling kompliziert? Ja. Derzeit schon noch. 
+Danach den Flow initial speichern und schliessen. Dann in einem neuen Tab öffnen (oder ausserhalb der Projektmappe unter Flows), damit der neue Designer verwendet wird. Kling kompliziert? Ja. Derzeit schon noch. 
 
 ## Das Resultat ist einfach genial:
 
