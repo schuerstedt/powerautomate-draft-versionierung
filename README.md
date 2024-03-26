@@ -24,6 +24,6 @@ Mit "Entwurf speichern" wird der Flow gespeichert, eine Version abgelegt. Auch w
 
 Mit "Veröffentlichen" wird der Flow dann scharf geschaltet. Dann findet auch eine Fehlerprüfung statt. 
 
-Happy Happy :).
+## Happy Happy :).
 
 ![image](https://github.com/schuerstedt/powerautomate-draft-versionierung/assets/2076412/14fcef04-9eba-4364-ac0c-0742ffb5b6b8)
