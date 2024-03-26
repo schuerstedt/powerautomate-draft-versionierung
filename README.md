@@ -14,10 +14,12 @@ Danach den Flo initial speichern und schliessen. Dann in einem neuen Tab öffnen
 
 ![image](https://github.com/schuerstedt/powerautomate-draft-versionierung/assets/2076412/8b21422c-10f8-44cd-8b27-da690e5c0653)
 
+## Versionsverlauf
 Versionsverlauf - damit kann man die gespeicherten Versionen anschauen und wiederherstellen. Tip: im Auslöser eine Notiz hinterlegen. Diese kann man sich dann in der Projektvorschau anschauen. Es gibt leider aktuell kein Textfeld zur Version. 
 
 ![image](https://github.com/schuerstedt/powerautomate-draft-versionierung/assets/2076412/cc85a692-d771-4065-87da-f88818992a2e)
 
+## Entwurf speichern
 Mit "Entwurf speichern" wird der Flow gespeichert, eine Version abgelegt. Auch wenn ein Fehler im Flow vorhanden ist!!!
 
 Mit "Veröffentlichen" wird der Flow dann scharf geschaltet. Dann findet auch eine Fehlerprüfung statt. 
